@@ -8,6 +8,7 @@ require (
 	github.com/cyphar/filepath-securejoin v0.2.2 // indirect
 	github.com/gobwas/glob v0.2.3 // indirect
 	github.com/jfrog/jfrog-client-go v0.8.1
+	github.com/mitchellh/gox v1.0.1 // indirect
 	github.com/spf13/cobra v0.0.6
 	github.com/stretchr/testify v1.5.1
 	gopkg.in/yaml.v2 v2.2.8
